@@ -1229,5 +1229,5 @@ Full JSON snapshots at each submission let Dofa diff faculty changes across re-s
 
 ---
 
-*Last updated: April 2026 | Built by Sanskriti | LNMIIT Faculty Appraisal System v2.0*
+*Last updated: June 2026 | Built by Aditya Kansal | LNMIIT Faculty Appraisal System*
 
